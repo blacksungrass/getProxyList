@@ -1,0 +1,87 @@
+1513711002903	geckodriver	INFO	geckodriver 0.18.0
+1513711002913	geckodriver	INFO	Listening on 127.0.0.1:48353
+1513711007379	geckodriver::marionette	INFO	Starting browser G:\firefox\firefox.exe with args ["-marionette"]
+1513711038303	geckodriver::marionette	ERROR	Failed to kill browser process
+1513711573258	geckodriver	INFO	geckodriver 0.18.0
+1513711573265	geckodriver	INFO	Listening on 127.0.0.1:53012
+1513711575323	geckodriver::marionette	INFO	Starting browser G:\firefox\firefox.exe with args ["-marionette"]
+1513711577332	Marionette	INFO	Enabled via --marionette
+1513711579234	Marionette	INFO	Listening on port 53032
+1513711579451	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1513713209181	geckodriver	INFO	geckodriver 0.18.0
+1513713209190	geckodriver	INFO	Listening on 127.0.0.1:65171
+1513713211259	geckodriver::marionette	INFO	Starting browser G:\firefox\firefox.exe with args ["-marionette"]
+1513713213310	Marionette	INFO	Enabled via --marionette
+1513713215244	Marionette	INFO	Listening on port 65198
+1513713215433	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromiuUnable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromUnable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\UUnable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1513713554706	geckodriver	INFO	geckodriver 0.18.0
+1513713554714	geckodriver	INFO	Listening on 127.0.0.1:3564
+1513713556776	geckodriver::marionette	INFO	Starting browser G:\firefox\firefox.exe with args ["-marionette"]
+1513713559008	Marionette	INFO	Enabled via --marionette
+1513713560903	Marionette	INFO	Listening on port 3584
+1513713560911	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 19272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513713857515	geckodriver	INFO	geckodriver 0.18.0
+1513713857524	geckodriver	INFO	Listening on 127.0.0.1:6181
+1513713859641	geckodriver::marionette	INFO	Starting browser G:\firefox\firefox.exe with args ["-marionette"]
+1513713860588	Marionette	INFO	Enabled via --marionette
+1513713862263	Marionette	INFO	Listening on port 6201
+1513713862764	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://beacon.sina.com.cn/h.js, line 1: ReferenceError: etag_ngx_str is not defined
+JavaScript warning: http://n.sinaimg.cn/index/js/shms2.js, line 289: unreachable code after return statement
+JavaScript error: http://a1.alicdn.com/creation/html/2016/09/19/creation-65122v604gy9XJqq-5273753.html#tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_15890324_2192376_13096223%26pvid%3d0a67436200005a3971046f510026b89b%26s%3d360x242%26d%3d59420271%26t%3d1513713924&pid=mm_15890324_2192376_13096223&tp=3&tsid=0a67436200005a3971046f510026b89b&u=http%3A%2F%2Fwww.sina.com.cn%2F&r=http%3A%2F%2Fwww.sina.com%2F&tp=3&tsid=0a67436200005a3971046f510026b89b&pid=mm_15890324_2192376_13096223, line 25: SyntaxError: missing ) after argument list
+JavaScript error: http://img.adbox.sina.com.cn/static/js/wb.js, line 1: NS_ERROR_DOM_BAD_DOCUMENT_DOMAIN: Illegal document.domain value
+JavaScript error: http://a1.alicdn.com/creation/html/2016/03/16/creation-16369UlmMJ5C7jNoP-1176226.html#tanxdspv=https%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_15890324_2192376_51598951%26pvid%3d0a671d8100005a39710693e70024176c%26s%3d238x200%26d%3d59420271%26t%3d1513713926&pid=mm_15890324_2192376_51598951&tp=3&tsid=0a671d8100005a39710693e70024176c&u=http%3A%2F%2Fwww.sina.com.cn%2F&r=http%3A%2F%2Fwww.sina.com%2F&tp=3&tsid=0a671d8100005a39710693e70024176c&pid=mm_15890324_2192376_51598951, line 25: SyntaxError: missing ) after argument list
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\hu\AppData\Local\openvr\openvrpaths.vrpath
